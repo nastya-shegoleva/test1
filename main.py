@@ -40,3 +40,4 @@ if __name__ == '__main__':
         bomb_group.draw(screen)
         clock.tick(fps)
         pygame.display.flip()
+#
